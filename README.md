@@ -1,4 +1,4 @@
-Swedish community-driven translations for Magento
+Community driven Swedish translations for Magento
 ==
 
 Installation
