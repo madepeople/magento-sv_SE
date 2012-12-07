@@ -483,3 +483,5 @@
 "Your order can not be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.","Your order can not be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address."
 "Your session has been expired, you will be relogged in now.","Din session har gått ut, du kommer att loggas in på nytt."
 "database ""%s""","database ""%s"""
+"Password","Lösenord",
+"Confirm Password","Bekräfta lösenord"
